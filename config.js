@@ -1,20 +1,20 @@
 const CONFIG = {
     titleWeb: "Đinh Phúc Đông và Em",
     introTitle: 'For U',
-    introDesc: `Anh tên là Đinh Phúc Đông 
-    Quê anh ở Thái Bình và anh 2009
-    Anh chỉ muốn nói với em một câu thôi
-    Anh iu em nhìu lắm`,
-    btnIntro: 'Ấn zô đây ik',
-    title: 'Ấn vào là phải iu đó ',
-    desc: 'Iu mình hok dza ',
-    btnYes: 'Iu lắm ak <33',
-    btnNo: 'Không nha ( Không ấn vào được đừng cố ):3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà. Mình cũng iu b lắm ak',
+    introDesc: `Mình tên là Đinh Phúc Đông 
+    Quê mình ở Thái Bình và 
+    mình chỉ muốn nói với cậu một câu thôi
+    là... Là gì thì ấn xuống dưới nhé`,
+    btnIntro: 'Ấn vô đây nè',
+    title: 'Mình thích cậu lắm á',
+    desc: 'Cậu có thích tớ không',
+    btnYes: 'Tớ cũng thích cậu ><',
+    btnNo: 'Không nha ( Không ấn vào được đừng cố )',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích mình <3',
+    btnReply: 'Send',
+    reply: 'Tại vì mình thích cậu ák >3',
+    mess: 'Mình biết mà. Mình cũng thích cậu lắm ak',
     messDesc: 'Nhắn tin cho mình đi rùi mình iu nhau.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Ấn vô đây thì nhắn cho mình được nè',
     messLink: 'https://m.me/DinhPhucDong.xD' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
