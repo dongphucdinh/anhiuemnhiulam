@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Đinh Phúc Đông tặng cậu",
-    introTitle: 'Đọc đi nhé',
-    introDesc: `Mình thấy bạn rất cute dễ thương 
+    titleWeb: "tớ có điều muốn nói",
+    introTitle: 'đọc đi nhé',
+    introDesc: `tớ thấy cậu rất cute dễ thương 
     xinh đẹp hiền lành nết na  
-    mình chỉ muốn nói với cậu một câu thôi
-    là... Là gì thì ấn xuống dưới nhé`,
-    btnIntro: 'Ấn vô đây nè',
-    title: 'Mình thích cậu lắm á',
-    desc: 'Cậu có thích tớ không',
-    btnYes: 'Tớ cũng thích cậu ><',
-    btnNo: 'Không nha',
-    question: 'Tại sao bạn lại thích mình vậy???',
-    btnReply: 'Send',
-    reply: 'Vì bạn cute dễ thương á',
-    mess: 'Mình biết mà. Mình cũng thích cậu lắm',
-    messDesc: 'Nhắn tin cho mình đi rùi mình iu nhau.',
-    btnAccept: 'Ấn vô đây nè',
+    tớ chỉ muốn nói với cậu một câu thôi
+    là`,
+    btnIntro: 'là ấn vào đây nè',
+    title: 'tớ thích cậu',
+    desc: 'cậu có thích tớ không',
+    btnYes: 'ờ thì tớ cũng thích cậu ><',
+    btnNo: 'không nha',
+    question: 'tại sao bạn cậu thích tớ vậy???',
+    btnReply: 'nói',
+    reply: 'vì tớ thích cậu , không có lý do gì cả',
+    mess: 'tớ biết mà, tớ cũng thích cậu lắm',
+    messDesc: 'nhắn tin cho tớ đi rùi mình iu nhau.',
+    btnAccept: 'ấn vô đây nè',
     messLink: 'https://m.me/Vonglarealdest' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
